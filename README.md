@@ -9,4 +9,3 @@
 - 📫 How to reach me: <sebri.issam@gmail.com>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can help you on mechanical engineering either.
--->
