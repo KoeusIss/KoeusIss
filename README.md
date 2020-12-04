@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on machine learning curriculum @ Holberton School
 - 🌱 I’m currently learning Basic mathematics
