@@ -12,4 +12,4 @@
 
 ### Quick overview of my day to day :art:
 
-[![KoeusIss's github stats](https://github-readme-stats.vercel.app/api?username=KoeusIss)](https://github.com/anuraghazra/github-readme-stats)
+[![KoeusIss's github stats](https://github-readme-stats.vercel.app/api?username=KoeusIss&show_icons=true)](https://github.com/KoeusIss)
