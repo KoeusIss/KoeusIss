@@ -50,3 +50,5 @@
 ### How to reach me
 <a href="https://www.linkedin.com/in/issam-sebri/" title="likedin"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" width="21px" height="21px"></a><br>
 <a href="https://twitter.com/KoeusIss" title="twitter"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Twitter_t_Logo.svg" alt="twitter" width="21px" height="21px"></a>
+[![forthebadge Issam-Sebri-Linkedin](https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg)](https://www.python.org/)
+
