@@ -1,12 +1,10 @@
-<p align="center">
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on machine learning curriculum @ Holberton School
-- 🌱 I’m currently learning Basic mathematics
-- 👯 I’m looking to collaborate on any project.
-- 🤔 I’m looking for help with machine learning
-- 💬 Ask me about any thing, be sure I'll be genrous
+- 🔭 I’m a machine learning enthusiast & full stack developer
+- 🌱 And I'm busy building my knowledge in maths and machine learning models
+- 👯 I’m looking to join an exciting team when I can contribute in their success
+- 💬 Ask me about any thing, I love to help.
 - 📫 How to reach me: <sebri.issam@gmail.com>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can help you on mechanical engineering either.
@@ -19,4 +17,4 @@
 ### What I'm using
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoeusIss&layout=compact)](https://github.com/KoeusIss)
-</p>
+
