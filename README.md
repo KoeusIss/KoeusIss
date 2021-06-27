@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<p align="center">
 - 🔭 I’m currently working on machine learning curriculum @ Holberton School
 - 🌱 I’m currently learning Basic mathematics
 - 👯 I’m looking to collaborate on any project.
@@ -9,6 +9,7 @@
 - 📫 How to reach me: <sebri.issam@gmail.com>
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can help you on mechanical engineering either.
+</p>
 
 ### Quick overview of my day to day :art:
 
