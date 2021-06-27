@@ -14,8 +14,6 @@
 [![KoeusIss's github stats](https://github-readme-stats.vercel.app/api?username=KoeusIss&show_icons=true)](https://github.com/KoeusIss)
 
 ### What I'm using
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoeusIss&layout=compact)](https://github.com/KoeusIss)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px"></a>
 
 ### How to reach me
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/issam sebri/master/soc/li.svg)](https://uk.linkedin.com/in/issam-sebri/) 
-[![Twitter](https://raw.githubusercontent.com/praveenscience/koeusiss/master/soc/tw.svg)](https://twitter.com/koeusiss)
