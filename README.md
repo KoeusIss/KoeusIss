@@ -11,10 +11,10 @@
 
 
 ### Quick overview of my day to day :art:
-
+<p align="center">
 [![KoeusIss's github stats](https://github-readme-stats.vercel.app/api?username=KoeusIss&show_icons=true)](https://github.com/KoeusIss)
-
+</p>
 ### What I'm using
-
+<p align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoeusIss&layout=compact)](https://github.com/KoeusIss)
-
+</p>
