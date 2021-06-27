@@ -17,5 +17,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KoeusIss&layout=compact)](https://github.com/KoeusIss)
 
 ### How to reach me
-[![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://uk.linkedin.com/in/issam-sebri/) 
-[![Twitter](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/tw.svg)](https://twitter.com/koeusiss)
+[![LinkedIn](https://raw.githubusercontent.com/praveenscience/issam sebri/master/soc/li.svg)](https://uk.linkedin.com/in/issam-sebri/) 
+[![Twitter](https://raw.githubusercontent.com/praveenscience/koeusiss/master/soc/tw.svg)](https://twitter.com/koeusiss)
