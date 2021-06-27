@@ -48,7 +48,5 @@
 <a href="https://www.elastic.co/products/elasticsearch" title="Elasticsearch"><img src="https://github.com/get-icon/geticon/raw/master/icons/elasticsearch.svg" alt="Elasticsearch" width="21px" height="21px"></a>
 <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a>
 ### How to reach me
-<a href="https://www.linkedin.com/in/issam-sebri/" title="likedin"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg" alt="linkedin" width="21px" height="21px"></a><br>
-<a href="https://twitter.com/KoeusIss" title="twitter"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Twitter_t_Logo.svg" alt="twitter" width="21px" height="21px"></a>
-[![forthebadge Issam-Sebri-Linkedin](https://upload.wikimedia.org/wikipedia/commons/c/c9/Linkedin.svg)](https://www.python.org/)
+<a href="https://www.linkedin.com/in/issam-sebri/" title="likedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a><br>
 
