@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m a machine learning enthusiast & full stack developer
+- 🔭 I’m a software engineer and machine learning enthusiast
 - 🌱 And I'm busy building my knowledge in maths and machine learning models
 - 👯 I’m looking to join an exciting team when I can contribute in their success
 - 💬 Ask me about any thing, I love to help.
