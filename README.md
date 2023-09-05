@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m a software engineer and machine learning enthusiast
-- 🌱 And I'm busy building my knowledge in maths and machine learning models
-- 👯 I’m looking to join an exciting team when I can contribute in their success
+- 🔭 I’m a software engineer.
+- 🌱 I'm shareping my skills building software and grasping Architecture.
+- 👯 I care a lot about a healthy team.
 - 💬 Ask me about any thing, I love to help.
 - 📫 How to reach me: <sebri.issam@gmail.com>
 - 😄 Pronouns: He/Him
