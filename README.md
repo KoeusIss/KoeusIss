@@ -9,11 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can help you on mechanical engineering either.
 
-
-### Quick overview of my day to day :art:
-[![KoeusIss's github stats](https://github-readme-stats.vercel.app/api?username=KoeusIss&show_icons=true&theme=blue-green)](https://github.com/KoeusIss)
-
-
 ### What I'm using
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
 <a href="https://isocpp.org/" title="C++"><img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="21px" height="21px"></a>
